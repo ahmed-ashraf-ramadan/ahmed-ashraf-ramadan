@@ -2,7 +2,7 @@
 
 **Software Engineer @ IVERA** — building **Ilora**, an AI operating system. Based in Cairo, Egypt.
 
-Backend engineer with **4+ years of Laravel & PHP**. I build modular web platforms, e-commerce systems and RESTful APIs, and I ship full-stack, AI-assisted products across multiple stacks.
+Backend engineer with **4+ years of Laravel & PHP**. I build modular web platforms, e-commerce systems and RESTful APIs, and I use **AI-assisted development (vibe coding with Claude Code)** to ship production features in stacks beyond my core — like Go, React and Python.
 
 ### Experience
 
@@ -11,6 +11,11 @@ Backend engineer with **4+ years of Laravel & PHP**. I build modular web platfor
 - **Farouk Group** — Back End Developer *(2022)*
 
 ### Featured work
+
+**🤖 Ilora — AI-powered business platform** *(IVERA, 2026)*
+- Multi-tenant SaaS combining CRM, HR, finance, projects, meetings and AI agents in one platform
+- Built through **AI-assisted development**: Go (Fiber) backend, React + TypeScript frontend, PostgreSQL (pgvector), Redis, OpenAI, LiveKit
+- 100+ merged pull requests — features, bug fixes and UX improvements across backend and frontend
 
 **📦 Egyptian Shipping Tracker** — full-stack platform to track shipments across Egyptian shipping companies
 - Next.js 14 (App Router), TypeScript, Tailwind CSS, React Query, Arabic/English i18n, PWA
@@ -32,29 +37,29 @@ Backend engineer with **4+ years of Laravel & PHP**. I build modular web platfor
 - 💳 Payment gateway and third-party API integrations
 - ⚡ Performance: caching, query optimization, background jobs and queues
 - 🌍 Multilingual & RTL (Arabic) applications
-- 🤖 AI-powered products and AI-assisted development across new stacks
+- 🤖 AI-assisted development (vibe coding): shipping production code in unfamiliar stacks quickly, while reviewing and testing what AI writes
 
 ### Tech stack
 
-**Backend:**
+**Core (hands-on):**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**AI-assisted (vibe coding):**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Data & DevOps:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
