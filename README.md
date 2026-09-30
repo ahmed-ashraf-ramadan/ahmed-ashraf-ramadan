@@ -2,7 +2,7 @@
 
 **Software Engineer @ IVERA** — building **Ilora**, an AI operating system. Based in Cairo, Egypt.
 
-Backend engineer with **4+ years of Laravel & PHP**. I build modular web platforms, e-commerce systems and RESTful APIs, and I use **AI-assisted development (vibe coding with Claude Code)** to ship production features in stacks beyond my core — like Go, React and Python.
+Backend engineer with **4+ years of Laravel & PHP**. I build modular web platforms, e-commerce systems and RESTful APIs, and I use **AI-assisted development (vibe coding with tools like Claude Code and DeepSeek)** to ship production features in stacks beyond my core — like Go, React and Python.
 
 ### Experience
 
